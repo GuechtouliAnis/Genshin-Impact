@@ -3,7 +3,7 @@ import sqlite3
 # Connect to the database
 conn = sqlite3.connect('GI_auto.db')
 
-# Create a cursor
+# Create a cursor called c
 c = conn.cursor()
 
 # Execute a query to retrieve data from the "Characters" table
