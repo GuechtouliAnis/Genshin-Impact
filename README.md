@@ -11,4 +11,4 @@ I added a visualisation using tableau Public (The Free Version) and since the fr
 In order to open the dashboard or try to use it you have to either access it through Tableau Public : (https://public.tableau.com/app/profile/aniss.guechtouli/viz/GenshinDshB/Tableaudebord1)
 Or download the file and download Tableau Public.
 
-![Tableau Visualisation](./Tableau Visualisation.png)
+![Tableau Visualisation](/Tableau Visualisation.png)
