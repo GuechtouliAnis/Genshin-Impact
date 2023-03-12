@@ -1,0 +1,66 @@
+CharID,Name,Rarity,Region,Weapon,Element,Patch,Passive,Value,Model,HP,ATK,DEF
+1,Zhongli,5,Liyue,Polearm,Geo,1.1,Geo DMG,28.8,Tall Male,14695,251,738
+2,Albedo,5,Mondstadt,Sword,Geo,1.2,Geo DMG,28.8,Medium Male,13226,251,876
+3,Aloy,5,Other World,Bow,Cryo,Gift,Cryo DMG,28.8,Medium Male,10899,234,676
+4,Amber,4,Mondstadt,Bow,Pyro,ST,ATK%,24,Medium Female,9461,223,601
+5,Arataki Itto,5,Inazuma,Claymore,Geo,2.3,Crit Rate,19.2,Tall Male,12858,227,959
+6,Barbara,4,Mondstadt,Catalyst,Hydro,1,HP%,24,Medium Female,9787,159,669
+7,Beidou,4,Liyue,Claymore,Electro,1.1,Electro DMG,24,Tall Female,13050,225,648
+8,Bennett,4,Mondstadt,Sword,Pyro,1.2,ER,26.7,Medium Male,12397,191,771
+9,Candace,4,Sumeru,Polearm,Hydro,3.1,HP%,24,Tall Female,10875,212,683
+10,Tartaglia,5,Snezhnaya,Bow,Hydro,1.1,Hydro DMG,28.8,Tall Male,13103,301,815
+11,Jean,5,Mondstadt,Sword,Anemo,Perma,Healing,22.2,Tall Female,14695,239,769
+12,Venti,5,Mondstadt,Bow,Anemo,1,ER,32,Medium Male,10531,263,669
+13,Lisa,4,Mondstadt,Catalyst,Electro,ST,EM,96,Tall Female,9570,232,573
+14,Kaeya,4,Mondstadt,Sword,Cryo,ST,ER,26.7,Tall Male,11636,223,792
+15,Diluc,5,Mondstadt,Claymore,Pyro,Perma,Crit Rate,19.2,Tall Male,12981,335,784
+16,Razor,4,Mondstadt,Claymore,Electro,1.1,Phy DMG,30,Medium Male,11962,234,751
+17,Klee,5,Mondstadt,Catalyst,Pyro,1,Pyro DMG,28.8,Short Female,10287,311,615
+18,Noelle,4,Mondstadt,Claymore,Geo,1,DEF%,30,Medium Female,12071,191,799
+19,Fischl,4,Mondstadt,Bow,Electro,1,ATK%,24,Medium Female,9189,244,594
+20,Diona,4,Mondstadt,Bow,Cryo,1.1,Cryo DMG,24,Short Female,9570,212,601
+21,Sucrose,4,Mondstadt,Catalyst,Anemo,1,Anemo DMG,24,Medium Female,9244,170,703
+22,Mona,5,Mondstadt,Catalyst,Hydro,Perma,ER,32,Medium Female,10409,287,653
+23,Rosaria,4,Mondstadt,Polearm,Cryo,1.4,ATK%,24,Tall Female,12289,240,710
+24,Eula,5,Mondstadt,Claymore,Cryo,1.5,Crit DMG,38.4,Tall Female,13226,342,751
+25,Xiao,5,Liyue,Polearm,Anemo,1.3,Crit Rate,19.2,Medium Male,12736,349,799
+26,Hu Tao,5,Liyue,Polearm,Pyro,1.3,Crit DMG,38.4,Medium Female,15552,106,876
+27,Shenhe,5,Liyue,Polearm,Cryo,2.4,ATK%,28.8,Tall Female,12993,304,830
+28,Xiangling,4,Liyue,Polearm,Pyro,1,EM,96,Medium Female,10875,225,669
+29,Ningguang,4,Liyue,Catalyst,Geo,1.1,Geo DMG,24,Tall Female,9787,212,573
+30,Xingqiu,4,Liyue,Sword,Hydro,1,ATK%,24,Medium Male,10222,202,758
+31,Chongyun,4,Liyue,Claymore,Cryo,1.1,ATK%,24,Medium Male,10984,223,648
+32,Qiqi,5,Liyue,Sword,Cryo,Perma,Healing,22.2,Short Female,12368,287,922
+33,Keqing,5,Liyue,Sword,Electro,1.3,Crit DMG,38.4,Medium Female,13103,323,799
+34,Ganyu,5,Liyue,Bow,Cryo,1.2,Crit DMG,38.4,Medium Female,9797,335,630
+35,Xinyan,4,Liyue,Claymore,Pyro,1.1,ATK%,24,Tall Female,11201,248,799
+36,Yanfei,4,Liyue,Catalyst,Pyro,1.5,Pyro DMG,24,Medium Female,9352,240,587
+37,Yun Jin,4,Liyue,Polearm,Geo,2.4,ER,26.7,Medium Female,10657,191,734
+38,Yelan,5,Liyue,Bow,Hydro,2.7,Crit Rate,19.2,Tall Female,14450,244,548
+39,Raiden Shogun,5,Inazuma,Polearm,Electro,2.1,ER,32,Tall Female,12907,337,789
+40,Kujo Sara,4,Inazuma,Bow,Electro,2.1,ATK%,24,Tall Female,9570,195,628
+41,Kamisato Ayato,5,Inazuma,Sword,Hydro,2.6,Crit DMG,38.4,Tall Male,13715,299,769
+42,Kamisato Ayaka,5,Inazuma,Sword,Cryo,2,Crit DMG,38.4,Medium Female,12858,342,784
+43,Kaedehara Kazuha,5,Inazuma,Sword,Anemo,1.6,EM,115,Medium Male,13348,297,807
+44,Shikanoin Heizou,4,Inazuma,Catalyst,Anemo,2.8,Anemo DMG,24,Medium Male,10657,225,684
+45,Yoimiya,5,Inazuma,Bow,Pyro,2,Crit Rate,19.2,Medium Female,10164,323,615
+46,Sayu,4,Inazuma,Claymore,Anemo,2,EM,96,Short Female,11854,244,745
+47,Sangonomiya Kokomi,5,Inazuma,Catalyst,Hydro,2.1,Hydro DMG,28.8,Tall Female,13471,234,657
+48,Yae Miko,5,Inazuma,Catalyst,Electro,2.5,Crit Rate,19.2,Tall Female,10372,340,569
+49,Thoma,4,Inazuma,Polearm,Pyro,2.2,ATK%,24,Tall Male,10331,202,751
+50,Gorou,4,Inazuma,Bow,Geo,2.3,Geo DMG,24,Medium Male,9570,183,648
+51,Kuki Shinobu,4,Inazuma,Sword,Electro,2.7,HP%,24,Medium Female,12289,212,751
+52,Tighnari,5,Sumeru,Bow,Dendro,3,Dendro DMG,28.8,Medium Male,10850,268,630
+53,Collei,4,Sumeru,Bow,Dendro,3,ATK%,24,Medium Female,9787,200,601
+54,Dori,4,Sumeru,Claymore,electro,3,HP%,24,Short Female,12397,223,723
+55,Dehya,5,Sumeru,Claymore,Pyro,3.5,HP%,0,Tall Female,15674,265,627
+56,Cyno,5,Sumeru,Polearm,Electro,3.1,Crit DMG,38.4,Medium Male,12491,318,859
+57,Nilou,5,Sumeru,Sword,Hydro,3.1,HP%,28.8,Medium Female,15185,230,729
+58,Nahida,5,Sumeru,Catalyst,Dendro,3.2,EM,115,Short Female,10360,299,630
+59,Layla,4,Sumeru,Sword,Cryo,3.2,HP%,24,Medium Female,11092,217,655
+60,Wanderer,5,Sumeru,Catalyst,Anemo,3.3,Crit Rate,19.2,Medium Male,10164,328,607
+61,Alhaithem,5,Sumeru,Sword,Dendro,3.4,Dendro DMG,28.8,Tall Male,13348,313,782
+62,Yaoyao,4,Liyue,Polearm,Dendro,3.4,HP%,24,Short Female,12289,212,751
+63,Faruzan,4,Sumeru,Bow,Anemo,3.3,ATK%,24,Medium Female,9570,196,628
+64,Aether,5,Other World,Sword,All,MC,ATK%,24,Medium Male,10875,212,683
+65,Lumine,5,Other World,Sword,All,MC,ATK%,24,Medium Female,10875,212,683
