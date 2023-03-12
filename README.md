@@ -10,10 +10,3 @@ I added a visualisation using tableau Public (The Free Version) and since the fr
 #Note
 In order to open the dashboard or try to use it you have to either access it through Tableau Public : (https://public.tableau.com/app/profile/aniss.guechtouli/viz/GenshinDshB/Tableaudebord1)
 Or download the file and download Tableau Public.
-
-<img
-src=“Tableau Visualisation.png”
-raw=true
-alt=“Tableau Visualisation”
-style=“margin-right: 10px;”
-/>
